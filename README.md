@@ -91,3 +91,4 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+[![Run on Repl.it](https://repl.it/badge/github/Rich-Harris/cameoparison-starter)](https://repl.it/github/Rich-Harris/cameoparison-starter)
