@@ -3,7 +3,7 @@ import Game from './Gamescreen.svelte'
 import Welcome from './Welcome.svelte'
 	let state ='welcome'
 	const start =(e)=>{
-	//console.log(e)
+	console.log(e)
 	state='playing'
 	}
 </script>
