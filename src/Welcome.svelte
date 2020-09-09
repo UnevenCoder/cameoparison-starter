@@ -3,7 +3,7 @@ import {createEventDispatcher} from 'svelte'
 const dispatch = createEventDispatcher();
 let clicked=false;
 function work(category){
-console.log('selected',category)
+//console.log('selected',category)
 clicked=true;
 dispatch('select',{category});
 }
