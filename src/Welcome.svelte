@@ -59,4 +59,8 @@
 		left: 0.02em;
 		text-indent: -9999px;
 	}
+	button{
+	padding:15px;
+margin-left:20px;
+	}
 </style>
